@@ -7,7 +7,7 @@ body
 
 .assignments
 {
-    display:wrap;
+    display:flex;
     flex-wrap:wrap;
 }
 
