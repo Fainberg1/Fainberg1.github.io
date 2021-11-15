@@ -5,7 +5,7 @@ body
     text-emphasis-color: black;
 }
 
-.assignments
+.assignment
 {
     display:flex;
     flex-wrap:wrap;
