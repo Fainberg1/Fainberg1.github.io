@@ -31,7 +31,7 @@ body
 
 .assignment img:hover
 {
-    border: 5px dashed lightblue; 
+    border: 5px dashed red; 
 }
 
 h1
