@@ -4,7 +4,8 @@ body
     font-family: Arial, Helvetica, sans-serif;
     text-emphasis-color: black;
 }
-.assignment
+
+.assignments
 {
     display:wrap;
     flex-wrap:wrap;
@@ -30,12 +31,12 @@ body
 
 .assignment img:hover
 {
-    border:10px dashed black; 
+    border: 5px dashed lightblue; 
 }
 
 h1
 {
-    color: blue;
+    color: darkblue;
     text-align: center;
 }
 
@@ -51,11 +52,10 @@ h2
 
 a 
 {
-    text-decoration:none;
-    color: white;
+    color: darkblue;
 }
 
 a:hover
 {
-    color: green;
+    color: red;
 }
