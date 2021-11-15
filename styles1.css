@@ -2,11 +2,11 @@ body
 {
     background: lightblue; 
     font-family: Arial, Helvetica, sans-serif;
-    text-emphasis-color: white;
+    text-emphasis-color: black;
 }
 .assignments
 {
-    display:flex;
+    display:wrap;
     flex-wrap:wrap;
 }
 
